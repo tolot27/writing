@@ -6,6 +6,8 @@ Technische Universität München
 
 ## Abstract
 
+Writing scientific articles or theses is an important task in our career.
+
 ## Concepts
 
 Word, Markdown, LaTeX, Wiki
