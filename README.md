@@ -13,13 +13,11 @@ Word, Markdown, LaTeX, Wiki
 
 ### Editors
 
-### Online Editors
+#### Online Editors
 
 * [Prose](http://prose.io) is linked with [GitHub](http://github.com).
 * [Dillinger](http://dillinger.io) can be linked with GitHub and Dropbox.
 
-### Latex based
-[SpanDeX](http://spandex.io)
-
 # Links
-[How to ditch Word](http://t.co/nGG6yJ4Z)
+* [How to ditch Word](http://t.co/nGG6yJ4Z)
+* [SpanDeX](http://spandex.io) LaTeX based online collaboration writing platform.
