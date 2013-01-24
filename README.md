@@ -1,4 +1,3 @@
-writing
+(Collaborative) Scientific Writing and Reproducible Research
 =======
 
-(Collaborative) Scientific Writing and Reproducible Research
