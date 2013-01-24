@@ -10,14 +10,21 @@ Technische Universität München
 
 Word, Markdown, LaTeX, Wiki
 
-### Editors
+## Editors
 
-#### Online Editors
+### Online Editors
 
 * [Prose](http://prose.io) is linked with [GitHub](http://github.com).
 * [Dillinger](http://dillinger.io) can be linked with GitHub and Dropbox.
 
-# Links
+### Editor Applications (offline)
+* [MarkdownPad](http://markdownpad.com)
+
+## Tools
+
+* [GitHub for Windows](http://windows.github.com) GitHub for Non-Programmers and Windows users!  ;-)
+
+## Links
 * [How to ditch Word](http://t.co/nGG6yJ4Z)
 * [Mastering Markdown: 30 Resources, Apps and Tutorials to Get You Started](http://designshack.net/articles/html/mastering-markdown-30-resources-apps-and-tutorials-to-get-you-started/)
 * [Writing papers using R Markdown](http://robertmflight.blogspot.de/2012/10/writing-papers-using-r-markdown.html)
