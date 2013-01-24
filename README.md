@@ -20,4 +20,8 @@ Word, Markdown, LaTeX, Wiki
 
 # Links
 * [How to ditch Word](http://t.co/nGG6yJ4Z)
-* [SpanDeX](http://spandex.io) LaTeX based online collaboration writing platform.
+* [Mastering Markdown: 30 Resources, Apps and Tutorials to Get You Started](http://designshack.net/articles/html/mastering-markdown-30-resources-apps-and-tutorials-to-get-you-started/)
+* [Writing papers using R Markdown](http://robertmflight.blogspot.de/2012/10/writing-papers-using-r-markdown.html)
+* [stypi_](https://www.stypi.com) An online realtime collaboration editor
+* [SpanDeX](http://spandex.io) LaTeX based online collaboration writing platform
+* [smb_git](https://github.com/karthikram/smb_git) git: A powerful tool to facilitate greater reproducibility and transparency in science.
