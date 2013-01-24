@@ -2,8 +2,7 @@
 
 **Mathias C. Walter**, M.Sc.  
 Bioinformatican
-Technische Universität München  
-[mathias.walter@tum.de](mailto:mathias.walter@tum.de)
+Technische Universität München
 
 ## Abstract
 
