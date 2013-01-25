@@ -18,7 +18,9 @@ Word, Markdown, LaTeX, Wiki
 * [Dillinger](http://dillinger.io) can be linked with GitHub and Dropbox.
 
 ### Editor Applications (offline)
+* [Gonzo](https://github.com/tonylukasavage/Gonzo) is lightweight desktop markdown editor built using Adobe Air, AS3, and Flex 4.5.
 * [MarkdownPad](http://markdownpad.com)
+* [WriteMonkey](http://writemonkey.com)
 
 ## Tools
 
