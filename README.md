@@ -8,7 +8,10 @@ Technische Universität München
 
 ## Concepts
 
-Word, Markdown, LaTeX, Wiki
+Word, Markdown, LaTeX, Wiki, Dropbox, Version Control System (VCS) like GitHub.
+
+### Dropbox
+* [Notifybox](http://notifybox.com) provides Check-in / Check-out of **MS Office** documents and logs user interactions with files (Windows-only).
 
 ## Editors
 
