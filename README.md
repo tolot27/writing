@@ -13,6 +13,10 @@ Word, Markdown, LaTeX, Wiki, Dropbox, Version Control System (VCS) like GitHub.
 ### Dropbox
 * [Notifybox](http://notifybox.com) provides Check-in / Check-out of **MS Office** documents and logs user interactions with files (Windows-only).
 
+## Reference Management
+
+Not all tools can import several references at once (e.g. from the search results of a PubMed search), which would be a big time saver. Mendeley and Zotero allow you to do this.
+
 ## Editors
 
 ### Online Editors
