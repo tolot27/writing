@@ -32,6 +32,7 @@ Not all tools can import several references at once (e.g. from the search result
 ## Tools
 
 * [GitHub for Windows](http://windows.github.com) GitHub for Non-Programmers and Windows users!  ;-)
+* [SparkleShare](http://sparkleshare.org) File sync ala DropBox but using a git server as backend.
 
 ## Links
 * [How to ditch Word](http://t.co/nGG6yJ4Z)
